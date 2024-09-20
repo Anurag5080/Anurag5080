@@ -3,7 +3,7 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Anurag Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="[(https://j.gifs.com/YE6OJA.gif)]">
+<img align="right" alt="Coding" width="400" src="https://j.gifs.com/YE6OJA.gif">
 
 - 🌱 I’m currently learning **React Native**
 
