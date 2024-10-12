@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- I’m currently learning **React**
 - 
 
 - 📫 How to reach me:- **anurag26official@gmail.com**
