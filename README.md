@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/anuragsingh5080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragsingh5080" height="30" width="40" /></a>
 <a href="https://instagram.com/anurag__5080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag__5080" height="30" width="40" /></a>
-<a href="https://x.com/anurag__5080" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRvA_H7TNY7LBdyihu9M9iKqecIqyf5uqf-r5lZb4iyR2qljPGXRztAnFylsRJ-ibJ4A&usqp=CAU" alt="anurag5080" height="30" width="40" /></a>
+<a href="https://x.com/anurag__5080" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="anurag5080" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
