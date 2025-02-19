@@ -12,6 +12,7 @@
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" style="margin-right: 10px;" />
 <!--   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" style="margin-right: 10px;" /> -->
 <!--   <img src="https://skillicons.dev/icons?i=graphql" alt="Apollo GraphQL" width="40" height="40" style="margin-right: 10px;" /> -->
 <!--   <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" style="margin-right: 10px;" /> -->
