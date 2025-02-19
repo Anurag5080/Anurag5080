@@ -13,15 +13,14 @@
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin-right: 10px;" />
-<!--   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" style="margin-right: 10px;" /> -->
-<!--   <img src="https://skillicons.dev/icons?i=graphql" alt="Apollo GraphQL" width="40" height="40" style="margin-right: 10px;" /> -->
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" style="margin-right: 10px;" />
 <!--   <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" style="margin-right: 10px;" /> -->
 <!--   <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="40" height="40" style="margin-right: 10px;" /> -->
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
 <!--   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" style="margin-right: 10px;" /> -->
 </div>
-
 
 <!--   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" style="margin-right: 10px;" /> -->
 <!--   <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40" style="margin-right: 10px;" /> -->
@@ -37,4 +36,11 @@
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" style="margin-right: 10px;" />
+</div>
+
+### Tools i use
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="Github" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS code" width="40" height="40" style="margin-right: 10px;" />
 </div>
