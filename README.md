@@ -6,7 +6,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
 ### Backend and Databases
@@ -43,4 +42,5 @@
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=github" alt="Github" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS code" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" style="margin-right: 10px;" />
 </div>
