@@ -13,11 +13,12 @@
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" style="margin-right: 10px;" />
-<!--   <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" style="margin-right: 10px;" /> -->
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" style="margin-right: 10px;" />
 <!--   <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="40" height="40" style="margin-right: 10px;" /> -->
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
-<!--   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" style="margin-right: 10px;" /> -->
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
+<!--   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" style="margin-right: 10px;" /> -->
 </div>
 
 <!--   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" style="margin-right: 10px;" /> -->
@@ -42,5 +43,4 @@
   <img src="https://skillicons.dev/icons?i=github" alt="Github" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS code" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" style="margin-right: 10px;" />
 </div>
